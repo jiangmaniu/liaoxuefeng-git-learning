@@ -5,8 +5,5 @@ change 4
 change 5
 change 6
 change 11111
-<<<<<<< HEAD
-change
-=======
 change 123123123123123
->>>>>>> feature1
+123123123
